@@ -14,6 +14,7 @@ class Order extends Model
     protected $guarded = ['id'];
 
     public const STATUS_PROSES = 'Proses';
+
     public const STATUS_SELESAI = 'Selesai';
 
     protected $attributes = [

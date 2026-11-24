@@ -2,7 +2,6 @@
 
 namespace Tests\Feature;
 
-use App\Models\Services;
 use Database\Seeders\ServiceSeeder;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Tests\TestCase;
